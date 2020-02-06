@@ -1,0 +1,6 @@
+﻿  file.cpp
+C:\Users\PKO-1\Downloads\ConsoleApplication60\ConsoleApplication60\ConsoleApplication60\file.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PKO-1\Downloads\ConsoleApplication60\ConsoleApplication60\ConsoleApplication60\file.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PKO-1\Downloads\ConsoleApplication60\ConsoleApplication60\ConsoleApplication60\file.cpp(124,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PKO-1\Downloads\ConsoleApplication60\ConsoleApplication60\ConsoleApplication60\file.cpp(235): warning C4715: 'Litera': not all control paths return a value
+  ConsoleApplication60.vcxproj -> C:\Users\PKO-1\Downloads\ConsoleApplication60\ConsoleApplication60\Debug\ConsoleApplication60.exe
